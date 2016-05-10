@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leonisgrammatic00gramgoog/leonisgrammatic00gramgoog_0346.png"; bbox 0 0 967 1371; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 133 461 669 490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 133 461 669 490">
+     <span class='ocr_line' id='line_1_1' title="bbox 133 461 669 490; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 133 461 289 489; x_wconf 76' lang='grc' dir='ltr'><em>ΣΥΓΓΡΛ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 292 462 351 489; x_wconf 88' lang='grc' dir='ltr'><em>ΦΗ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 363 462 576 490; x_wconf 88' lang='grc' dir='ltr'><em>ΧΡΟΝΟΓΡΑ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 579 462 669 489; x_wconf 76' lang='grc' dir='ltr'><em>ΦῙΟῬ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 515 636 603">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 161 515 636 603">
+     <span class='ocr_line' id='line_1_2' title="bbox 161 515 636 556; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 161 533 204 555; x_wconf 84' lang='grc' dir='ltr'><em>ΤΑ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 215 533 297 555; x_wconf 82' lang='grc' dir='ltr'><em>ΚΑΤΑ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 309 515 437 556; x_wconf 57' lang='grc' dir='ltr'><em>ΛΕΟΝΤᾸ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 450 533 526 556; x_wconf 78' lang='lat' dir='ltr'><em>YION</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 537 534 636 556; x_wconf 79' lang='lat' dir='ltr'><em>BAPAA</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 177 579 619 603; baseline 0.002 -2"><span class='ocrx_word' id='word_1_10' title='bbox 177 579 234 601; x_wconf 73' lang='lat' dir='ltr'><em>Tor</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 244 580 405 602; x_wconf 77' lang='lat' dir='ltr'><em>APMENIOY</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 415 579 619 603; x_wconf 72' lang='grc' dir='ltr'><em>ΠΕΡῙΕΧΟΥΣΑ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
